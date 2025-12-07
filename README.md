@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🧱 <b>Blockchain BAckend Developer</b> working on cross-chain infrastructure & DeFi protocols  
+- 🧱 <b>Blockchain Backend Developer</b> working on cross-chain infrastructure & DeFi protocols  
 - 💼 Associate System Analyst @ **Ancilar**  
 - Deploying cybersecurity agents with **Hypernative**, monitoring on-chain events & intents
 - Strong focus on **DeFi lending, governance, oracles, interoperability, security**
