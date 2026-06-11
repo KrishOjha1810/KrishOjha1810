@@ -1,87 +1,73 @@
-<h1 align="center">👋 Hey, I'm Krish!</h1>
+<h1 align="center">Hey, I'm Krish Ojha</h1>
 
 <p align="center">
-  <b>Blockchain Protocol & Full-Stack Developer</b>  
-  Building secure & scalable cross-chain systems — DeFi(DEX), Backend, Intents.
+  <b>Full-Stack and Smart Contract Developer</b><br/>
+  I build full-stack web apps, AI and LLM developer tools, and tested on-chain systems in Solidity.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundry-000000?style=flat&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About me
 
-- 🧱 <b>Blockchain Backend Developer</b> working on cross-chain infrastructure & DeFi protocols  
-- 💼 Associate System Analyst @ **Ancilar**  
-- Deploying cybersecurity agents with **Hypernative**, monitoring on-chain events & intents
-- Strong focus on **DeFi lending, governance, oracles, interoperability, security**
-- Currently Mastering Intent-based architectures (UniswapX-style)
-- Have worked with Chainlink CCIP, LayerZero messaging & OFT/ONFT standards
-- Love turning research into **working on-chain products**
-
-> 📝 *Deep knowledge about Uniswap(V2, V3, X), Compound, DAOs, OFT tokens, oracles, cross-chain messaging.*
+- Full-stack developer (MERN) and Solidity engineer who likes turning ideas into working, tested products.
+- Building AI and LLM developer tooling, including a Model Context Protocol server that guards prompts before they reach a model.
+- Comfortable across the stack: React and TypeScript on the front end, Node and Express on the back end, and Foundry or Hardhat for smart contracts.
+- I care about tested code, my contract repos ship with Foundry tests and CI.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech stack
 
-### 🪙 Blockchain & Protocol Engineering
-Solidity • Foundry • Ethers.js • LayerZero • Chainlink CCIP & Price Feeds  
-Cross-Chain Token Transfers (OFT) • DAO governance • Smart Contract Security  
-EVM Networks • Uniswap(V2, V3, X) 
+**Web and backend**
+React, Next.js, TypeScript, JavaScript, Node.js, Express, REST APIs, WebSockets, MongoDB, PostgreSQL, Tailwind CSS
 
-### 🇮 Backend Engineering
-Node.js • Express • REST APIs • Authentication • WebSockets  
-MongoDB • PostgreSQL
+**Smart contracts and web3**
+Solidity, Foundry, Hardhat, Ethers.js, ERC20, ERC721, ERC1155, OpenZeppelin, Chainlink price feeds, LayerZero messaging
 
-### 🎨 Frontend & UI
-React.js • JavaScript • TypeScript  
-Tailwind CSS • Responsive UI
+**AI and LLM tooling**
+Model Context Protocol (MCP), prompt safety (secret and PII scanning), token and cost accounting, LLM-assisted matching
 
-### 🧰 Tools
-Git & GitHub • GitHub Actions • Docker • Postman
-
-### 📚 Understanding & Research
-DeFi: Lending, Borrowing, Tokenomics, Governance  
-Oracles: Chainlink / Pyth / RedStone  
-Bridges: LayerZero, CCIP, Rollup Bridges, Arbitrary Messaging  
-Cross-chain protocol stack & risk analysis
+**Tooling**
+Git and GitHub, GitHub Actions, Docker, Postman
 
 ---
 
-## 🌟 Featured 
+## Featured projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Cross-Chain OFT Token Transfer** | Transfer wrapped USDC between Sepolia & Fuji using LZ endpoints | Solidity, LayerZero, Foundry |
-| **Cross-Chain Counter** | LayerZero powered messaging with state sync | Solidity, LZ |
-| **Food Delivery App** | MERN app w/ admin dashboard for orders, menu tracking | Mongo, Express, React, Node |
-| **uBlog** | CRUD-based Blogging platform, JWT auth | MERN |
-| **Analytics Dashboard** | Charts + filtering + reporting | React |
-| **WeatherWise** | Clean weather API consumer | React |
-| **Portfolio** | Personal showcase website | React / JavaScript |
+| Project | What it is | Tech | Links |
+|---|---|---|---|
+| **PromptGuard MCP** | Local-first MCP server that scans prompts for secrets, PII, and token cost before they reach the LLM | TypeScript, MCP, Node | [code](https://github.com/KrishOjha1810/promptguard-mcp) , [npm](https://www.npmjs.com/package/@promptguardapp/mcp) |
+| **Portfolio** | My personal developer portfolio site | React, Vite | [live](https://portfolio-iota-eight-33.vercel.app/) , [code](https://github.com/KrishOjha1810/Portfolio) |
+| **NFT Marketplace** | ERC721 and ERC1155 marketplace contracts with on-chain fees, tests, and CI | Solidity, Foundry | [code](https://github.com/KrishOjha1810/nft-marketplace-foundry) |
+| **On-Chain Bingo** | ERC20 game token, board generation, and a fully tested game contract | Solidity, Foundry | [code](https://github.com/KrishOjha1810/bingo-game-foundry) |
+| **Crowdfunding** | Campaign contract with goals, deadlines, withdrawals, and refunds | Solidity, Foundry | [code](https://github.com/KrishOjha1810/crowdfunding-foundry) |
+| **Food Delivery** | MERN app with a customer storefront and an admin panel | React, Node, MongoDB | [code](https://github.com/KrishOjha1810/Food-Delivery) |
+| **WanderLust** | Airbnb-style stay listing and booking app | Node, Express, MongoDB | [code](https://github.com/KrishOjha1810/WanderLust) |
+| **uBlog** | Full-stack blogging platform with auth, posts, and comments | MERN | [code](https://github.com/KrishOjha1810/uBlog) |
 
 ---
 
-## 📈 GitHub Stats
+## GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KrishOjha1810&show_icons=true&theme=transparent" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KrishOjha1810&theme=transparent" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishOjha1810&layout=compact&theme=transparent" width="48%"/>
 </p>
-
-<!-- Optional Top Langs -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishOjha1810&layout=compact&theme=transparent" />
-</p>
--->
 
 ---
 
-## 🌐 Connect with Me
+## Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/krish-ojha/
-- 📧 Email: 11krishojha08@gmail.com
+- LinkedIn: https://www.linkedin.com/in/krish-ojha/
+- Email: 11krishojha08@gmail.com
 
----
-
-⭐️ *If you like my work, feel free to connect, collaborate or star a repo!*
+<p align="center"><i>If you like my work, feel free to connect, collaborate, or star a repo.</i></p>
