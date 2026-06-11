@@ -52,7 +52,7 @@ Git and GitHub, GitHub Actions, Docker, Postman
 | **Crowdfunding** | Campaign contract with goals, deadlines, withdrawals, and refunds | Solidity, Foundry | [code](https://github.com/KrishOjha1810/crowdfunding-foundry) |
 | **Food Delivery** | MERN app with a customer storefront and an admin panel | React, Node, MongoDB | [code](https://github.com/KrishOjha1810/Food-Delivery) |
 | **WanderLust** | Airbnb-style stay listing and booking app | Node, Express, MongoDB | [code](https://github.com/KrishOjha1810/WanderLust) |
-| **uBlog** | Full-stack blogging platform with auth, posts, and comments | MERN | [code](https://github.com/KrishOjha1810/uBlog) |
+| **BFHL Challenge** | Full-stack Bajaj Finserv Health qualifier: a REST API backend with a React frontend | Node, Express, React | [code](https://github.com/KrishOjha1810/Bajaj-) |
 
 ---
 
