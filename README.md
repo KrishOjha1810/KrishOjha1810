@@ -2,12 +2,12 @@
 <a name="top"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18011F,30:B600A8,70:7621B0,100:BE4C00&height=210&section=header&text=Krish%20Ojha&fontSize=64&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20%26%20Web3%20Engineer&descSize=20&descAlignY=56&animation=fadeIn" alt="Krish Ojha" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18011F,30:B600A8,70:7621B0,100:BE4C00&height=210&section=header&text=Krish%20Ojha&fontSize=64&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer%20%7C%20Backend%2C%20AI%20%26%20Web3&descSize=20&descAlignY=56&animation=fadeIn" alt="Krish Ojha" />
 </p>
 
 <p align="center">
   <a href="https://github.com/KrishOjha1810">
-    <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=24&duration=3000&pause=800&color=B600A8&center=true&vCenter=true&width=620&lines=Smart+contracts+in+Solidity+%26+Foundry;Rust+%26+Node+backend+services;Cross-chain+infrastructure+across+20%2B+bridges;AI+%26+LLM+developer+tooling" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=24&duration=3000&pause=800&color=B600A8&center=true&vCenter=true&width=620&lines=Rust+%26+Node+backend+services;AI+%26+LLM+developer+tooling;Smart+contracts+in+Solidity+%26+Foundry;Cross-chain+infra+across+20%2B+bridges" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,12 +25,12 @@
 
 ```ts
 const krish = {
-  role: "Full-Stack & Web3 Engineer",
+  role: "Software Engineer (Backend + AI)",
   company: "Ancilar",
   location: "Indore, India",
   degree: "B.Tech, Computer Science & Data Science",
-  building: ["cross-chain infrastructure", "smart contracts", "Rust & Node backends"],
-  focus: ["intent-based DeFi", "account abstraction", "AI dev tooling"],
+  building: ["Rust & Node backend services", "AI & LLM dev tooling", "cross-chain infrastructure"],
+  focus: ["backend & distributed systems", "AI dev tooling", "intent-based DeFi"],
   motto: "Reading the contract beats reading the docs.",
 };
 ```
